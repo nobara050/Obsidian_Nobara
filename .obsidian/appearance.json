@@ -1,4 +1,6 @@
 {
   "cssTheme": "AnuPpuccin",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showRibbon": false,
+  "showViewHeader": false
 }
