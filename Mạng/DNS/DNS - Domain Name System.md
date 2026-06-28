@@ -21,7 +21,7 @@ google.com
 
 Ví dụ hỏi IP của Google, Root sẽ không biết. Nhưng nó biết .com thì sẽ hỏi những sever nào.
 
-#### TLP = Top Level Domain Server
+#### TLD = Top Level Domain Server
 TLD server biết google được quản lý bởi DNS nào. Ví dụ: 
 
 ```
