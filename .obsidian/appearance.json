@@ -2,5 +2,6 @@
   "cssTheme": "Tokyo Night",
   "theme": "obsidian",
   "showRibbon": true,
-  "showViewHeader": false
+  "showViewHeader": false,
+  "accentColor": ""
 }
